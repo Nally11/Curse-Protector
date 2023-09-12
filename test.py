@@ -16,7 +16,7 @@ def search_for_curse_words(text):
     return found_curse_words
 
 
-# Example usage.
+# Example usage
 input_text = input("Enter some text: ")
 curse_words_found = search_for_curse_words(input_text)
 if curse_words_found:
